@@ -7,4 +7,6 @@ Welcome to the 3D Modeling Projects repository! This space showcases my journey 
 
 This repository contains a collection of 3D models, textures, and Blender files (.blend) created as part of my learning and experimentation with Blender. Each project highlights different aspects of 3D modeling, from basic shapes to complex scenes.
 
-![Model Head](
+![Model Head](https://github.com/ThomasAcevedo/Game-Development/blob/d50306ce641cfd1b758c830c4ae19ca69aa3aae2/Screenshot%202024-08-21%20172044.png)
+
+![High Polymodel Humanoid](
