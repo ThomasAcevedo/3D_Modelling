@@ -1,6 +1,5 @@
 3D Modeling Projects - Blender
-![blnder](https://github.com/ThomasAcevedo/Game-Development/blob/490901d025907cbb86a2cb2919fde3d9f8fba033/bl6049l7e7-blender-logo-logo-blender.png)
-
+🎨 
 Welcome to the 3D Modeling Projects repository! This space showcases my journey in 3D modeling using Blender, featuring various projects, models, and renders. Below, you'll find details about the key projects and models included in this repository.
 
 🛠️ About the Repository
